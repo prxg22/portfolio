@@ -24,5 +24,4 @@ Designed by: Pedro Drão
 - [mtg-box](https://github.com/prxg22/mtg-box) (in progress) - NodeJS and Angular
 - [Salesflare](https://app.salesflare.com/#/signup/) - NodeJS and Angular
 - [eAssinatura](http://eassinatura.com.br/) - C# and Angular
-- 
     
