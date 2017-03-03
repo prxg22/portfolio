@@ -19,9 +19,13 @@ Portfolio
 
 ### Web apps
 - [mtg-box](https://github.com/prxg22/mtg-box) (in progress) - NodeJS and Angular
+
 - [Salesflare](https://app.salesflare.com/#/signup/) - NodeJS and Angular
+
 - [eAssinatura](http://eassinatura.com.br/) - C# and Angular
+
 - AGE 2.0 - Codeigniter and jQuery - Junior Enterprise specialized ERP
+
 - Sistema de Inscrição da X SENE - Codeigniter and jQuery - Registration system to Eletric Engineering Department of University of Brasilia
 
  
