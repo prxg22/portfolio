@@ -4,7 +4,7 @@ Portfolio
 ### Websites
 - [Arquitectar](http://arquitectar.com.br/) - Wordpress
 
-- [Zé Krishna](http://prxg22.github.io/krishna) - Bootstrap and jQuery - designed by: Felipe Cavalcante
+- [Zé Krishna](http://zekrishna.com/) - Bootstrap and jQuery - designed by: Felipe Cavalcante
 
 - [A Engrenagem](http://aengrenagem.com) - Wordpress - designed by: Felipe Cavalcante
 
@@ -19,6 +19,8 @@ Portfolio
 
 ### Web apps
 - [mtg-box](https://github.com/prxg22/mtg-box) (in progress) - NodeJS and Angular
+
+- [Zé Krishna - Simple CMS](http://api.zekrishna.com/) - Laravel 5 and jQuery - designed by: Felipe Cavalcante
 
 - [Salesflare](https://app.salesflare.com/#/signup/) - NodeJS and Angular
 
