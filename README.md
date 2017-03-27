@@ -20,7 +20,7 @@ Portfolio
 ### Web apps
 - [mtg-box](https://github.com/prxg22/mtg-box) (in progress) - NodeJS and Angular
 
-- [Zé Krishna - Simple CMS](http://api.zekrishna.com/) - Laravel 5 and jQuery - designed by: Felipe Cavalcante
+- [Zé Krishna - Simple CMS](http://api.zekrishna.com/) - Laravel 5 and jQuery
 
 - [Salesflare](https://app.salesflare.com/#/signup/) - NodeJS and Angular
 
